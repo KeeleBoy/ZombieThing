@@ -17,4 +17,16 @@ public class zombieController {
 		ModelAndView mav = new ModelAndView("home");
 		return mav;
 	}
+	
+	@RequestMapping("/page2")
+	public ModelAndView page2() {
+		ModelAndView mav = new ModelAndView("page2");
+		return mav;
+	}
+	
+	@RequestMapping("/page3")
+	public ModelAndView page3() {
+		ModelAndView mav = new ModelAndView("page3");
+		return mav;
+	}
 }
