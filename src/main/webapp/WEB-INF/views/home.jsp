@@ -14,6 +14,17 @@
 <title>Home</title>
 </head>
 <body>
+	<div>
+		<h1>Zombie Survival Quiz</h1>
+	</div>
+	<div>
+		<h2>Do you have what it takes</h2>
+		<h2>to survive the apocalypse?...</h2>
+
+
+		<a href="/page2"><button type="submit">Enter the quiz...</button></a>
+
+	</div>
 
 </body>
 </html>
