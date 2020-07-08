@@ -12,6 +12,10 @@
 <link rel="stylesheet" href="/style.css" />
 <meta charset="ISO-8859-1">
 <title>Home</title>
+
+<!--  <script src="haunt_your_website/ghost.js"></script> -->
+<!-- TODO GET JAVASCRIPT THING WORKING -->
+
 </head>
 <body>
 	<div>
