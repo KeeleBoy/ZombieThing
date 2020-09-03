@@ -7,8 +7,13 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Page 3</title>
+<script type="text/javascript" src="jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="jquery-ui.min.js"></script>
+<script type="text/javascript" src="girb.js"></script>
 </head>
 <body>
+
+<body onload="girb();">
 
 </body>
 </html>
